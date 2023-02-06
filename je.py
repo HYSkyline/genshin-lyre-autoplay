@@ -206,8 +206,8 @@ def beat_play(beat_list, key_map):
 
 
 if __name__ == '__main__':
-	score_name = '江南.txt'
-	score_rhythm = 0.6
+	score_name = '发如雪.txt'
+	score_rhythm = 1.0
 	# main(score_name, score_rhythm)
 
 	if is_admin():
